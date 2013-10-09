@@ -34,5 +34,6 @@ int main()
 	char * str = "-12345678";
 	cout<<str2<<endl;
 	//cout<<strtoint(str,-1)<<endl;
+	//cout<<strtoint(str,-2)<<endl;
 	
 } 
